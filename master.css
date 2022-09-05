@@ -1,0 +1,27 @@
+.footer {
+    text-align: center;
+    padding: 40px 40px 40px 40px;
+}
+
+.contacts {
+    text-align: center;
+    padding-top: 20px;
+    color: lightgray;
+}
+
+#Contatti{
+    padding-top: 40px;
+}
+
+.studio {
+    height: 350px;
+    object-fit: cover;
+}
+
+.calendar {
+    padding: 20px;
+}
+
+.open {
+    height:600px;
+}
